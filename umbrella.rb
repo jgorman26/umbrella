@@ -14,4 +14,4 @@ puts "Where are you?"
 user_location = gets.chomp
 puts "Checking #{user_location}'s weather..."
 
-google_maps_url = "https://www.google.com/maps/" + 
+google_maps_url = "https://www.google.com/maps/"
